@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.py[cod]
+*.pcap
+*.pcapng
+downloads/
+output/
+.build/
+实验 1 讲解 2026.pdf
